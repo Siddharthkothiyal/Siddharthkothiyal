@@ -88,11 +88,11 @@
 ## 💡 How to Reach Me
 
 <p align="center">
-  <a href="mailto:siddharthkothiyal30@gmail.com">📧 Email Me</a> •  
+  <a href="mailto:siddharthkothiyal30@gmail.com">📧 Email </a> •  
   <a href="https://www.linkedin.com/in/your-profile">🔗 LinkedIn</a> •  
   <a href="https://your-portfolio.com/">🌐 Portfolio</a>
 </p>
 
 ---
 
-Made with ❤️, code, & curiosity  
+
