@@ -1,6 +1,6 @@
 <!-- ─── Hero / Animated Banner Section ───────────────────── -->
 <p align="center">
-  <img src="./assets/banner-animated.gif" alt="Hi, I'm Siddharth" width="100%" style="max-height: 200px; object-fit: cover;" />
+  <img src="assets/banner-animated.gif.gif" alt="Hi, I'm Siddharth" width="100%" style="max-height: 200px; object-fit: cover;" />
 </p>
 
 <h1 align="center">Hey! I’m **Siddharth Kothiyal** 👋</h1>
