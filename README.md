@@ -3,7 +3,7 @@
   <img src="assets/banner-animated.gif.gif" alt="Hi, I'm Siddharth" width="100%" style="max-height: 200px; object-fit: cover;" />
 </p>
 
-<h1 align="center">Hey! I’m **Siddharth Kothiyal** 👋</h1>
+<h1 align="center">Hey! I’m Siddharth Kothiyal 👋</h1>
 <p align="center">
   I build things that people can use with ease.  
   Turning ideas into apps, data, and delight.
@@ -11,9 +11,9 @@
 
 ---
 
-## 🔍 My Philosophy & Discipline
+My Philosophy & Discipline
 
-> *“Clean code matters. Good habits compound. Discipline turns vision into completion.”*
+> “Clean code matters. Good habits compound. Discipline turns vision into completion.”
 
 - I explore new tech stacks every season  
 - I automate what I repeat — tasks, builds, testing  
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Tech & Tools I Live In
+##  Tech & Tools I Live In
 
 | Domain / Category        | Stack & Tools |
 |---------------------------|------------------------------------------------------------|
@@ -66,13 +66,13 @@
 
 ---
 
-## 🚧 Projects That Tell My Story
+## Projects That Tell My Story
 
 | Project | What It Is / Does | Highlights & Tech |
 |---|---------------------|---------------------|
-| **Interview-Prep (AI Voice Agent)** | AI-powered mock interview voice agent | • Frontend: React Native & TypeScript <br> • Backend: Supabase <br> • Deployed with Expo / Expo Router <br> • Improved speech-to-text latency & accuracy (~160% boost) <br> • Created answer analysis: tone, clarity, pacing |
-| **Chrome Extension – Video Progress Tracker** | Tracks and shows video playback timestamps | • Built with HTML5, CSS, JavaScript <br> • Used Manifest V3, chrome.tabs API, service workers <br> • Helps users revisit key video parts and improve learning |
-| **Path Finding Simulator** | Algorithm visualizer for path finding | • Implemented Dijkstra’s & A* in Java <br> • Used priority queues / heaps for performance <br> • Added multithreading & real-time animations to enhance interactivity |
+| Interview-Prep (AI Voice Agent) | AI-powered mock interview voice agent | • Frontend: React Native & TypeScript <br> • Backend: Supabase <br> • Deployed with Expo / Expo Router <br> • Improved speech-to-text latency & accuracy (~160% boost) <br> • Created answer analysis: tone, clarity, pacing |
+| Chrome Extension – Video Progress Tracker | Tracks and shows video playback timestamps | • Built with HTML5, CSS, JavaScript <br> • Used Manifest V3, chrome.tabs API, service workers <br> • Helps users revisit key video parts and improve learning |
+| Path Finding Simulator** | Algorithm visualizer for path finding | • Implemented Dijkstra’s & A* in Java <br> • Used priority queues / heaps for performance <br> • Added multithreading & real-time animations to enhance interactivity |
 
 ---
 
